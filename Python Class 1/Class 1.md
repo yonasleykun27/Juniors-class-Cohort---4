@@ -2,20 +2,17 @@
 ---
 
 ## Table of Contents
-1. [Installing Python](#installing-python)  
-2. [Variables](#variables)  
-3. [Data Types](#data-types)  
-   → **[Exercise Set 1 (Easy, Medium, Hard)](#exercise-set-1)**  
+1. [Installing Python](#1-installing-python)  
+2. [Variables](#2-variables)  
+3. [Data Types](#3-data-types)  
+   → [Exercise Set 1 (Easy, Medium, Hard)](#exercise-set-1-variables--data-types)  
+4. [Operators](#4-operators)  
+5. [Mutability and Immutability](#5mutability-and-immutability)  
+6. [Dictionaries](#6-dictionaries)  
+   → [Exercise Set 2 (Easy, Medium, Hard)](#exercise-set-2-dictionaries)  
+7. [Sets](#7-sets)  
+8. [Strings](#8)
 
-4. [Operators](#operators)  
-5. [Mutability and Immutability](#mutability-immutability)  
-6. [Dictionaries](#dictionaries)  
-   → **[Exercise Set 2 (Easy, Medium, Hard)](#exercise-set-2)**  
-
-7. [Sets](#sets)  
-8. [Strings](#strings)  
-9. [Conditional Statements](#conditional-statements)  
-   → **[Exercise Set 3 (Easy, Medium, Hard)](#exercise-set-3)**
 ---
 
 ## 1. Installing Python
@@ -282,4 +279,5 @@ If the score is invalid (<0 or >100), print "Invalid score"
 
 ### Answer of Exercixe 3
 ![alt text](image-14.png)
+
 
