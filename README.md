@@ -6,7 +6,7 @@ A complete **Python fundamentals** and **Object-Oriented Programming (OOP)** gui
 
 ## 📘 Table of Contents
 
-1. [Installing Python](#installing-python)
+1. [## Installing Python](#installing-python)
 2. [Variables](#variables)
 3. [Data Types](#data-types)
 4. [Operators](#operators)
@@ -18,11 +18,11 @@ A complete **Python fundamentals** and **Object-Oriented Programming (OOP)** gui
 10. [Loops & Object-Oriented Programming (OOP)](#loops--object-oriented-programming-oop)
 
     * [Loops in Python](#loops-in-python)
-    * [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
+    * [Object-Oriented Programming (OOP)](#object-oriented-programming-oop-section)
 
 ---
 
-## 🧩 Installing Python {#installing-python}
+## Installing Python
 
 Download from the [official website](https://www.python.org/downloads/), install, and check version:
 
@@ -32,7 +32,7 @@ python --version
 
 ---
 
-## 🧠 Variables {#variables}
+## Variables
 
 Variables are containers for data.
 Example:
@@ -47,7 +47,7 @@ name = "Yonas"
 
 ---
 
-## 🧾 Data Types {#data-types}
+## Data Types
 
 | Class    | Description                  |
 | -------- | ---------------------------- |
@@ -60,7 +60,7 @@ name = "Yonas"
 
 ---
 
-## ➗ Operators {#operators}
+## Operators
 
 Perform operations on values.
 
@@ -74,7 +74,7 @@ Perform operations on values.
 
 ---
 
-## 🔄 Mutability & Immutability {#mutability--immutability}
+## Mutability & Immutability
 
 | Type      | Description | Examples               |
 | --------- | ----------- | ---------------------- |
@@ -83,7 +83,7 @@ Perform operations on values.
 
 ---
 
-## 🗝️ Dictionaries {#dictionaries}
+## Dictionaries
 
 Store data as key-value pairs:
 
@@ -95,7 +95,7 @@ student = {"name": "Yonas", "age": 21}
 
 ---
 
-## 🍎 Sets {#sets}
+## Sets
 
 Unordered, unique collections:
 
@@ -106,7 +106,7 @@ fruits.add("mango")
 
 ---
 
-## ✍️ Strings {#strings}
+## Strings
 
 Text enclosed in quotes:
 
@@ -117,7 +117,7 @@ print(greeting.upper())
 
 ---
 
-## ⚖️ Conditional Statements {#conditional-statements}
+## Conditional Statements
 
 ```python
 age = int(input("Enter age: "))
@@ -129,11 +129,11 @@ else:
 
 ---
 
-# 🔁 Loops & Object-Oriented Programming (OOP) {#loops--object-oriented-programming-oop}
+# Loops & Object-Oriented Programming (OOP)
 
 ---
 
-## 🔂 Loops in Python {#loops-in-python}
+## Loops in Python
 
 Used to repeat code efficiently.
 
@@ -162,7 +162,7 @@ for i in range(1, 4):
     print()
 ```
 
-### 💡 Loop Exercise
+### Loop Exercise
 
 Print pattern:
 
@@ -175,7 +175,7 @@ Print pattern:
 
 ---
 
-## 🧱 Object-Oriented Programming (OOP) {#object-oriented-programming-oop}
+## Object-Oriented Programming (OOP) {#object-oriented-programming-oop-section}
 
 Organize code into **classes** and **objects** for reusability.
 
@@ -205,7 +205,7 @@ p1.display()
 
 ---
 
-## 🎯 Summary
+## Summary
 
 ✅ Loops automate repetition
 ✅ OOP improves structure and reusability
@@ -213,8 +213,8 @@ p1.display()
 
 ---
 
-### 🧾 Author
+### Author
 
 **Yonas Leykun**
 📍 Ethiopia | 💻 Full-Stack Developer | 🎓 Information Systems Student
-🔗 [LinkedIn](https://www.linkedin.com/in/yonas-leykun) | [Upwork](https://www.upwork.com/freelancers/~0118f611e631cbfbd2?mp_source=share)
+🔗 [LinkedIn](https://www.linkedin.com/in/yonas-leykun) 
