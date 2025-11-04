@@ -18,7 +18,7 @@ A complete **Python fundamentals** and **Object-Oriented Programming (OOP)** gui
 10. [Loops & Object-Oriented Programming (OOP)](#loops--object-oriented-programming-oop)
 
     * [Loops in Python](#loops-in-python)
-    * [Object-Oriented Programming (OOP)](#object-oriented-programming-oop-1)
+    * [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
 
 ---
 
@@ -175,7 +175,7 @@ Print pattern:
 
 ---
 
-## 🧱 Object-Oriented Programming (OOP) {#object-oriented-programming-oop-1}
+## 🧱 Object-Oriented Programming (OOP) {#object-oriented-programming-oop}
 
 Organize code into **classes** and **objects** for reusability.
 
@@ -217,4 +217,4 @@ p1.display()
 
 **Yonas Leykun**
 📍 Ethiopia | 💻 Full-Stack Developer | 🎓 Information Systems Student
-🔗 [LinkedIn](https://www.linkedin.com/in/yonas-leykun) 
+🔗 [LinkedIn](https://www.linkedin.com/in/yonas-leykun) | [Upwork](https://www.upwork.com/freelancers/~0118f611e631cbfbd2?mp_source=share)
