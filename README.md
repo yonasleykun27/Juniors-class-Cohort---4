@@ -6,7 +6,7 @@ A complete **Python fundamentals** and **Object-Oriented Programming (OOP)** gui
 
 ## 📘 Table of Contents
 
-1. [## Installing Python](#installing-python)
+1. [Installing Python](#installing-python)
 2. [Variables](#variables)
 3. [Data Types](#data-types)
 4. [Operators](#operators)
@@ -218,3 +218,4 @@ p1.display()
 **Yonas Leykun**
 📍 Ethiopia | 💻 Full-Stack Developer | 🎓 Information Systems Student
 🔗 [LinkedIn](https://www.linkedin.com/in/yonas-leykun) 
+
