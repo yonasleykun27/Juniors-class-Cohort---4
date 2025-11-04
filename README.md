@@ -5,6 +5,7 @@ A complete **Python fundamentals** and **Object-Oriented Programming (OOP)** gui
 ---
 
 ## 📘 Table of Contents
+
 1. [Installing Python](#installing-python)
 2. [Variables](#variables)
 3. [Data Types](#data-types)
@@ -19,114 +20,167 @@ A complete **Python fundamentals** and **Object-Oriented Programming (OOP)** gui
 ---
 
 ## 🧩 Installing Python
+
 Download from the [official website](https://www.python.org/downloads/), install, and check version:
+
 ```bash
 python --version
-🧠 Variables
+```
+
+---
+
+## 🧠 Variables
+
 Variables are containers for data.
 Example:
 
-python
-Copy code
+```python
 age = 25
 name = "Yonas"
+```
+
 ✅ Allowed: letters, numbers, underscores
 🚫 Not Allowed: start with numbers, special characters, or Python keywords
 
-🧾 Data Types
-Class	Description
-Numeric	int, float, complex
-String	str – sequence of characters
-Sequence	list, tuple, range
-Mapping	dict – key-value pairs
-Boolean	True or False
-Set	Unique unordered items
+---
 
-➗ Operators
+## 🧾 Data Types
+
+| Class    | Description                  |
+| -------- | ---------------------------- |
+| Numeric  | int, float, complex          |
+| String   | str – sequence of characters |
+| Sequence | list, tuple, range           |
+| Mapping  | dict – key-value pairs       |
+| Boolean  | True or False                |
+| Set      | Unique unordered items       |
+
+---
+
+## ➗ Operators
+
 Perform operations on values.
 
-Arithmetic
-+, -, *, /, //, %, **
+**Arithmetic**  `+, -, *, /, //, %, **`
 
-Assignment
-=, +=, -=, *=, /=
+**Assignment**  `=, +=, -=, *=, /=`
 
-Comparison
-==, !=, >, <, >=, <=
+**Comparison**  `==, !=, >, <, >=, <=`
 
-Logical
-and, or, not
+**Logical**  `and, or, not`
 
-🔄 Mutability & Immutability
-Type	Description	Examples
-Mutable	Changeable	list, dict, set
-Immutable	Fixed	int, float, str, tuple
+---
 
-🗝️ Dictionaries
+## 🔄 Mutability & Immutability
+
+| Type      | Description | Examples               |
+| --------- | ----------- | ---------------------- |
+| Mutable   | Changeable  | list, dict, set        |
+| Immutable | Fixed       | int, float, str, tuple |
+
+---
+
+## 🗝️ Dictionaries
+
 Store data as key-value pairs:
 
-python
-Copy code
+```python
 student = {"name": "Yonas", "age": 21}
-Example Exercise:
-Add new key/value, update, and display all items.
+```
 
-🍎 Sets
+**Example Exercise:** Add new key/value, update, and display all items.
+
+---
+
+## 🍎 Sets
+
 Unordered, unique collections:
 
-python
-Copy code
+```python
 fruits = {"apple", "banana", "orange"}
 fruits.add("mango")
-✍️ Strings
+```
+
+---
+
+## ✍️ Strings
+
 Text enclosed in quotes:
 
-python
-Copy code
+```python
 greeting = "Hello, Python!"
 print(greeting.upper())
-⚖️ Conditional Statements
-python
-Copy code
+```
+
+---
+
+## ⚖️ Conditional Statements
+
+```python
 age = int(input("Enter age: "))
 if age >= 18:
     print("You can vote.")
 else:
     print("You are too young.")
-🔁 Loops & Object-Oriented Programming (OOP)
-🔂 Loops in Python
+```
+
+---
+
+# 🔁 Loops & Object-Oriented Programming (OOP)
+
+---
+
+## 🔂 Loops in Python
+
 Used to repeat code efficiently.
 
-For Loop
+**For Loop**
 
-python
-Copy code
+```python
 for i in range(5):
     print(i)
-While Loop
+```
 
-python
-Copy code
+**While Loop**
+
+```python
 x = 1
 while x <= 5:
     print(x)
     x += 1
-💡 Loop Exercise
+```
+
+**Nested Loop**
+
+```python
+for i in range(1, 4):
+    for j in range(1, i + 1):
+        print(j, end="")
+    print()
+```
+
+---
+
+### 💡 Loop Exercise
+
 Print pattern:
 
-yaml
-Copy code
+```
 1
 12
 123
 1234
-🧱 Object-Oriented Programming (OOP)
-Organize code into classes and objects for reusability.
+```
 
-Example
+---
 
-python
-Copy code
+## 🧱 Object-Oriented Programming (OOP)
+
+Organize code into **classes** and **objects** for reusability.
+
+**Example**
+
+```python
 class Person:
     def __init__(self, name, age):
         self.name = name
@@ -136,20 +190,32 @@ class Person:
 
 p1 = Person("Yonas", 21)
 p1.display()
-Core Concepts
+```
 
-Concept	Description
-Class	Blueprint for objects
-Object	Instance of a class
-Inheritance	Child class uses parent features
-Encapsulation	Hiding internal details
-Polymorphism	Same method, different behavior
+**Core Concepts**
 
-🎯 Summary
+| Concept       | Description                      |
+| ------------- | -------------------------------- |
+| Class         | Blueprint for objects            |
+| Object        | Instance of a class              |
+| Inheritance   | Child class uses parent features |
+| Encapsulation | Hiding internal details          |
+| Polymorphism  | Same method, different behavior  |
+
+---
+
+## 🎯 Summary
+
 ✅ Loops automate repetition
 ✅ OOP improves structure and reusability
 ✅ Practice each concept with small projects to master Python 🚀
 
-🧾 Author
-Yonas Leykun
+---
+
+### 🧾 Author
+
+**Yonas Leykun**
 📍 Ethiopia | 💻 Full-Stack Developer | 🎓 Information Systems Student
+🔗 [LinkedIn](https://www.linkedin.com/in/yonas-leykun) | 
+```}
+```
