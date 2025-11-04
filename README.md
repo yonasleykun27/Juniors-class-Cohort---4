@@ -17,9 +17,12 @@ A complete **Python fundamentals** and **Object-Oriented Programming (OOP)** gui
 9. [Conditional Statements](#conditional-statements)
 10. [Loops & Object-Oriented Programming (OOP)](#loops--object-oriented-programming-oop)
 
+    * [Loops in Python](#loops-in-python)
+    * [Object-Oriented Programming (OOP)](#object-oriented-programming-oop-1)
+
 ---
 
-## 🧩 Installing Python
+## 🧩 Installing Python {#installing-python}
 
 Download from the [official website](https://www.python.org/downloads/), install, and check version:
 
@@ -29,7 +32,7 @@ python --version
 
 ---
 
-## 🧠 Variables
+## 🧠 Variables {#variables}
 
 Variables are containers for data.
 Example:
@@ -44,7 +47,7 @@ name = "Yonas"
 
 ---
 
-## 🧾 Data Types
+## 🧾 Data Types {#data-types}
 
 | Class    | Description                  |
 | -------- | ---------------------------- |
@@ -57,7 +60,7 @@ name = "Yonas"
 
 ---
 
-## ➗ Operators
+## ➗ Operators {#operators}
 
 Perform operations on values.
 
@@ -71,7 +74,7 @@ Perform operations on values.
 
 ---
 
-## 🔄 Mutability & Immutability
+## 🔄 Mutability & Immutability {#mutability--immutability}
 
 | Type      | Description | Examples               |
 | --------- | ----------- | ---------------------- |
@@ -80,7 +83,7 @@ Perform operations on values.
 
 ---
 
-## 🗝️ Dictionaries
+## 🗝️ Dictionaries {#dictionaries}
 
 Store data as key-value pairs:
 
@@ -92,7 +95,7 @@ student = {"name": "Yonas", "age": 21}
 
 ---
 
-## 🍎 Sets
+## 🍎 Sets {#sets}
 
 Unordered, unique collections:
 
@@ -103,7 +106,7 @@ fruits.add("mango")
 
 ---
 
-## ✍️ Strings
+## ✍️ Strings {#strings}
 
 Text enclosed in quotes:
 
@@ -114,7 +117,7 @@ print(greeting.upper())
 
 ---
 
-## ⚖️ Conditional Statements
+## ⚖️ Conditional Statements {#conditional-statements}
 
 ```python
 age = int(input("Enter age: "))
@@ -126,11 +129,11 @@ else:
 
 ---
 
-# 🔁 Loops & Object-Oriented Programming (OOP)
+# 🔁 Loops & Object-Oriented Programming (OOP) {#loops--object-oriented-programming-oop}
 
 ---
 
-## 🔂 Loops in Python
+## 🔂 Loops in Python {#loops-in-python}
 
 Used to repeat code efficiently.
 
@@ -159,8 +162,6 @@ for i in range(1, 4):
     print()
 ```
 
----
-
 ### 💡 Loop Exercise
 
 Print pattern:
@@ -174,7 +175,7 @@ Print pattern:
 
 ---
 
-## 🧱 Object-Oriented Programming (OOP)
+## 🧱 Object-Oriented Programming (OOP) {#object-oriented-programming-oop-1}
 
 Organize code into **classes** and **objects** for reusability.
 
@@ -216,6 +217,4 @@ p1.display()
 
 **Yonas Leykun**
 📍 Ethiopia | 💻 Full-Stack Developer | 🎓 Information Systems Student
-🔗 [LinkedIn](https://www.linkedin.com/in/yonas-leykun) | 
-```}
-```
+🔗 [LinkedIn](https://www.linkedin.com/in/yonas-leykun) 
