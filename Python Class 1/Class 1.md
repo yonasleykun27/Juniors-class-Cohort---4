@@ -282,3 +282,4 @@ If the score is invalid (<0 or >100), print "Invalid score"
 
 ### Answer of Exercixe 3
 ![alt text](image-14.png)
+
